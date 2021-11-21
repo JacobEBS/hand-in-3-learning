@@ -1,0 +1,32 @@
+{
+    "name": "Hand in 3 learning",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.7.21",
+        "tag": "v1.7.21",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/7c1b1596f80c572049a62063207687939f861a0e",
+        "target": "1.7.21",
+        "pxt": "7.3.21",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
